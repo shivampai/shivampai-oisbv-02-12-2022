@@ -1,1 +1,2 @@
-Hello
+ssd : complah
+pwd : @dmin@123
